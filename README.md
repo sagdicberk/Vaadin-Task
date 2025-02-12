@@ -1,5 +1,5 @@
 # Monad Task
-![Proje Ekran Görüntüsü](ss/ss.png)
+![Proje Ekran Görüntüsü](ss/SS.png)
 ---
 
 ## 1. **Proje Kurulumu ve Vaadin Sayfalarının Oluşturulması**
